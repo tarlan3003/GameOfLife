@@ -1,2 +1,0 @@
-/usr/bin/ar qc libgame_sdl.a  CMakeFiles/game_sdl.dir/game_sdl.c.o
-/usr/bin/ranlib libgame_sdl.a
