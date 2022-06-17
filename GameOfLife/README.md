@@ -11,4 +11,4 @@ Please consider that in final step you can run program in two modes
 ./gameOfLife for terminal
 ./gameOfLife_SDL for SDL mode
 
-For step just enter: make all (it has make file already)
+For step 1 just enter: make all (it has make file already)
