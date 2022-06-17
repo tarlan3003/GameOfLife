@@ -2,6 +2,8 @@ This project is consists of 4 steps and combination of all these steps-final ste
 
 For running program in terminal please enter: 
 mkdir build && cd build/ && cmake .. && make
+
+
 then ./gameOfLife
 
 NOTE: 
